@@ -15,3 +15,5 @@ ipykernel>=6.25.0
 
 # Streamlit for Web App
 streamlit
+
+pywin32==310; platform_system == "Windows"
